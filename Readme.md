@@ -1,1 +1,1 @@
-![My Cat](./img.PNG)
+![My](./img.PNG)
